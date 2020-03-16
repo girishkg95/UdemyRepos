@@ -12,7 +12,7 @@ namespace MasteringASPNETMVC5.Controllers
         // GET: Movies
         public ActionResult Random()
         {
-            Movie mv = new Movie() { Id = 1, Name = "Shrek!" };
+            Movie mv = new Movie() { Id = 1, Name = "Shrek!!!!!" };
             
             return View(mv);
         }
